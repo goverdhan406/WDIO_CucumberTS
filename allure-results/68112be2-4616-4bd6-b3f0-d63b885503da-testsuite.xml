@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1629752210251' stop='1629752249347'>
+    <name>The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password</name>
+    <title>The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password</title>
+    <test-cases>
+        <test-case start='1629752210253' status='passed' stop='1629752210257'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1629752210257' status='passed' stop='1629752212100'>
+            <name>Given I am on the login page</name>
+            <title>Given I am on the login page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1629752212100' status='passed' stop='1629752223564'>
+            <name>When I login with GoverdhanReddy.ThatiLaxmanna34 and Linlith1986!</name>
+            <title>When I login with GoverdhanReddy.ThatiLaxmanna34 and Linlith1986!</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7e85effe-6eed-4383-ad77-2af51f97869c-attachment.png' type='image/png' size='9100'/>
+            </attachments>
+        </test-case>
+        <test-case start='1629752223565' status='passed' stop='1629752228804'>
+            <name>Then SignIn button must be disabled</name>
+            <title>Then SignIn button must be disabled</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a9c61a59-fe0b-42c9-bf7a-a4fdde08aa34-attachment.png' type='image/png' size='98078'/>
+            </attachments>
+        </test-case>
+        <test-case start='1629752228804' status='broken' stop='1629752249340'>
+            <name>And login must be successful</name>
+            <title>And login must be successful</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='225c2ad1-11c1-4f6d-a3e8-f4e1d32dbe60-attachment.png' type='image/png' size='57265'/>
+            </attachments>
+            <failure>
+                <message>Error: Can't call click on element with selector "body > app-root > ng-component > div > div.app-layout-container.display-flex.teased > div.app-layout-main.display-flex.align-items-stretch.flex-direction-column > div.app-layout-main-toolbar > app-toolbar > div > div > app-profile-popover > div.popover-container.ng-star-inserted > div.bottom-container.text-btn-label-small" because element wasn't found</message>
+                <stack-trace>Error: Can't call click on element with selector "body > app-root > ng-component > div > div.app-layout-container.display-flex.teased > div.app-layout-main.display-flex.align-items-stretch.flex-direction-column > div.app-layout-main-toolbar > app-toolbar > div > div > app-profile-popover > div.popover-container.ng-star-inserted > div.bottom-container.text-btn-label-small" because element wasn't found
+                    at Object.implicitWait [as default] (C:\WDIO_CucumberTS\node_modules\webdriverio\build\utils\implicitWait.js:34:19)
+                    at async Element.elementErrorHandlerCallbackFn (C:\WDIO_CucumberTS\node_modules\webdriverio\build\middlewares.js:19:29)
+                    at async Element.wrapCommandFn (C:\WDIO_CucumberTS\node_modules\@wdio\utils\build\shim.js:104:29)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1629752249341' status='passed' stop='1629752249343'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

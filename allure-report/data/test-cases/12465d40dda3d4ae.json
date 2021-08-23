@@ -1,0 +1,99 @@
+{
+  "uid" : "12465d40dda3d4ae",
+  "name" : "And login must be successful",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password.And login must be successful",
+  "historyId" : "edafc25d11e3b3cd09cf34dbb88bb10e",
+  "time" : {
+    "start" : 1629752609200,
+    "stop" : 1629752629940,
+    "duration" : 20740
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2e296654749191ab",
+      "name" : "Screenshot",
+      "source" : "2e296654749191ab.png",
+      "type" : "image/png",
+      "size" : 57265
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password"
+  }, {
+    "name" : "testMethod",
+    "value" : "And login must be successful"
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c41bb8e88114669f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752387445,
+        "stop" : 1629752408235,
+        "duration" : 20790
+      }
+    }, {
+      "uid" : "8ad245e9918a0130",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"body > app-root > ng-component > div > div.app-layout-container.display-flex.teased > div.app-layout-main.display-flex.align-items-stretch.flex-direction-column > div.app-layout-main-toolbar > app-toolbar > div > div > app-profile-popover > div.popover-container.ng-star-inserted > div.bottom-container.text-btn-label-small\" because element wasn't found",
+      "time" : {
+        "start" : 1629752228804,
+        "stop" : 1629752249340,
+        "duration" : 20536
+      }
+    }, {
+      "uid" : "5aae57dd8e3354da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629737464860,
+        "stop" : 1629737470336,
+        "duration" : 5476
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12465d40dda3d4ae.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

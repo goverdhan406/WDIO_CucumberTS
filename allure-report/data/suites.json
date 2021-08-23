@@ -1,0 +1,337 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty",
+    "children" : [ {
+      "name" : "Then I should see a flash message under username saying This field is required",
+      "uid" : "7acb3f2a0dfd7d2e",
+      "parentUid" : "0ba96f9828606e51cb8e770f0f0034e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752450763,
+        "stop" : 1629752456214,
+        "duration" : 5451
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "58f94b43a9759df5",
+      "parentUid" : "0ba96f9828606e51cb8e770f0f0034e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752456254,
+        "stop" : 1629752457497,
+        "duration" : 1243
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "When I enter password as \"Password\" & Click Sign In button",
+      "uid" : "b81df8786a3d607",
+      "parentUid" : "0ba96f9828606e51cb8e770f0f0034e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752457497,
+        "stop" : 1629752473486,
+        "duration" : 15989
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "Then I should see a flash message under username saying This field is required1",
+      "uid" : "85db5438ba23efde",
+      "parentUid" : "0ba96f9828606e51cb8e770f0f0034e5",
+      "status" : "failed",
+      "time" : {
+        "start" : 1629752473486,
+        "stop" : 1629752488910,
+        "duration" : 15424
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "",
+      "uid" : "e56fb38638050a5a",
+      "parentUid" : "0ba96f9828606e51cb8e770f0f0034e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752488911,
+        "stop" : 1629752488912,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    } ],
+    "uid" : "0ba96f9828606e51cb8e770f0f0034e5"
+  }, {
+    "name" : "The modulr finance Sandbox login page: As a user, I will see error message if password is empty",
+    "children" : [ {
+      "name" : "Then I should see a flash message under password saying This field is required",
+      "uid" : "24c0ac3d659045b9",
+      "parentUid" : "e2e0d414799426dbb015d806bcb72f93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752506344,
+        "stop" : 1629752511809,
+        "duration" : 5465
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "804a26ef631d368a",
+      "parentUid" : "e2e0d414799426dbb015d806bcb72f93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752511827,
+        "stop" : 1629752512837,
+        "duration" : 1010
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "When I enter username as \"username\" & Click Sign In button",
+      "uid" : "ae6c59fe19f0e62f",
+      "parentUid" : "e2e0d414799426dbb015d806bcb72f93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752512837,
+        "stop" : 1629752529300,
+        "duration" : 16463
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "Then I should see a flash message under password saying This field is required1",
+      "uid" : "2caa1175f2325061",
+      "parentUid" : "e2e0d414799426dbb015d806bcb72f93",
+      "status" : "failed",
+      "time" : {
+        "start" : 1629752529301,
+        "stop" : 1629752544853,
+        "duration" : 15552
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "",
+      "uid" : "3c77d3b14aa186eb",
+      "parentUid" : "e2e0d414799426dbb015d806bcb72f93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752544854,
+        "stop" : 1629752544856,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    } ],
+    "uid" : "e2e0d414799426dbb015d806bcb72f93"
+  }, {
+    "name" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning",
+    "children" : [ {
+      "name" : "When I login with correct and wrong",
+      "uid" : "701ac9c33800418e",
+      "parentUid" : "d3f0c46d423a48317bfca7cbbf42e55f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752545957,
+        "stop" : 1629752557661,
+        "duration" : 11704
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "ef9438d6c111cc58",
+      "parentUid" : "d3f0c46d423a48317bfca7cbbf42e55f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752568143,
+        "stop" : 1629752568899,
+        "duration" : 756
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "When I login with wrong and correct",
+      "uid" : "53abb4f93c3c1dd2",
+      "parentUid" : "d3f0c46d423a48317bfca7cbbf42e55f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752568899,
+        "stop" : 1629752580384,
+        "duration" : 11485
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "Then I should see a flash message saying The username or password is incorrect.",
+      "uid" : "f7b8dadd5a2e7a27",
+      "parentUid" : "d3f0c46d423a48317bfca7cbbf42e55f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752580385,
+        "stop" : 1629752590897,
+        "duration" : 10512
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "",
+      "uid" : "88ae27aafc04faf5",
+      "parentUid" : "d3f0c46d423a48317bfca7cbbf42e55f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752590897,
+        "stop" : 1629752590898,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    } ],
+    "uid" : "d3f0c46d423a48317bfca7cbbf42e55f"
+  }, {
+    "name" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password",
+    "children" : [ {
+      "name" : "Given I am on the login page",
+      "uid" : "9ab9c3c0f5f2a5c1",
+      "parentUid" : "d6855dcfcc3bfc5b2b4673a24b442a34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752590918,
+        "stop" : 1629752591922,
+        "duration" : 1004
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "When I login with GoverdhanReddy.ThatiLaxmanna34 and Linlith1986!",
+      "uid" : "9f753c4b6dc6eb37",
+      "parentUid" : "d6855dcfcc3bfc5b2b4673a24b442a34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752591922,
+        "stop" : 1629752603791,
+        "duration" : 11869
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "Then SignIn button must be disabled",
+      "uid" : "cbf0c305c82ad01a",
+      "parentUid" : "d6855dcfcc3bfc5b2b4673a24b442a34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752603791,
+        "stop" : 1629752609199,
+        "duration" : 5408
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "And login must be successful",
+      "uid" : "12465d40dda3d4ae",
+      "parentUid" : "d6855dcfcc3bfc5b2b4673a24b442a34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752609200,
+        "stop" : 1629752629940,
+        "duration" : 20740
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "",
+      "uid" : "d7789f932875533e",
+      "parentUid" : "d6855dcfcc3bfc5b2b4673a24b442a34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752629940,
+        "stop" : 1629752629942,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    } ],
+    "uid" : "d6855dcfcc3bfc5b2b4673a24b442a34"
+  }, {
+    "name" : "The modulr finance Sandbox login page: As a user, I will be able to navigate to forgot password screen",
+    "children" : [ {
+      "name" : "Given I am on the login page",
+      "uid" : "fcf62987dc17eb95",
+      "parentUid" : "873504c042ec6ea4e884e76c3e910aa5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752629971,
+        "stop" : 1629752630877,
+        "duration" : 906
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "When I click on Forgotten Password link",
+      "uid" : "6f054d3837f61b3b",
+      "parentUid" : "873504c042ec6ea4e884e76c3e910aa5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752630877,
+        "stop" : 1629752636814,
+        "duration" : 5937
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "Then navigate to Reset access page",
+      "uid" : "9ddd037a1fa2ee3",
+      "parentUid" : "873504c042ec6ea4e884e76c3e910aa5",
+      "status" : "failed",
+      "time" : {
+        "start" : 1629752636814,
+        "stop" : 1629752652116,
+        "duration" : 15302
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "",
+      "uid" : "b931b99b8ac7ce1e",
+      "parentUid" : "873504c042ec6ea4e884e76c3e910aa5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752652117,
+        "stop" : 1629752652118,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    } ],
+    "uid" : "873504c042ec6ea4e884e76c3e910aa5"
+  } ]
+}

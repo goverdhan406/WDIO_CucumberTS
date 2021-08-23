@@ -1,0 +1,72 @@
+{
+  "uid" : "be26df019485b571",
+  "name" : "Then SignIn button must be disabled",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password.Then SignIn button must be disabled",
+  "historyId" : "9c0c1eefdf090951c6ddd1a308ec2798",
+  "time" : {
+    "start" : 1629752382083,
+    "stop" : 1629752387443,
+    "duration" : 5360
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c22657e5ee70d1ca",
+      "name" : "Screenshot",
+      "source" : "c22657e5ee70d1ca.png",
+      "type" : "image/png",
+      "size" : 98032
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then SignIn button must be disabled"
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be26df019485b571.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

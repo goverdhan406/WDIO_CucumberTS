@@ -1,0 +1,106 @@
+{
+  "uid" : "fcf62987dc17eb95",
+  "name" : "Given I am on the login page",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will be able to navigate to forgot password screen.Given I am on the login page",
+  "historyId" : "dae18cc710b3e86670472bbf11820370",
+  "time" : {
+    "start" : 1629752629971,
+    "stop" : 1629752630877,
+    "duration" : 906
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6497f0a492d6c165",
+      "name" : "Screenshot",
+      "source" : "6497f0a492d6c165.png",
+      "type" : "image/png",
+      "size" : 95914
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to navigate to forgot password screen"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to navigate to forgot password screen"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the login page"
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to navigate to forgot password screen"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bf33872e37a37113",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629737470359,
+        "stop" : 1629737471805,
+        "duration" : 1446
+      }
+    }, {
+      "uid" : "e7cdbbde42158a10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629734639934,
+        "stop" : 1629734641192,
+        "duration" : 1258
+      }
+    }, {
+      "uid" : "927db8adba8f3272",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629734329896,
+        "stop" : 1629734331261,
+        "duration" : 1365
+      }
+    }, {
+      "uid" : "1d362b4c88ac1408",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629732778600,
+        "stop" : 1629732779845,
+        "duration" : 1245
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fcf62987dc17eb95.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

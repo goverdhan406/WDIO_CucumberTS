@@ -1,0 +1,98 @@
+{
+  "uid" : "f7b8dadd5a2e7a27",
+  "name" : "Then I should see a flash message saying The username or password is incorrect.",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning.Then I should see a flash message saying The username or password is incorrect.",
+  "historyId" : "9a56527af8998604de5c3d9315fb84db",
+  "time" : {
+    "start" : 1629752580385,
+    "stop" : 1629752590897,
+    "duration" : 10512
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4cb739c222dfbfbb",
+      "name" : "Screenshot",
+      "source" : "4cb739c222dfbfbb.png",
+      "type" : "image/png",
+      "size" : 96588
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see a flash message saying The username or password is incorrect."
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d96d7fde70df733d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752557661,
+        "stop" : 1629752568122,
+        "duration" : 10461
+      }
+    }, {
+      "uid" : "43b22c9649c918ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629737432147,
+        "stop" : 1629737442634,
+        "duration" : 10487
+      }
+    }, {
+      "uid" : "7099ad83bd50241",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629737409223,
+        "stop" : 1629737419609,
+        "duration" : 10386
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7b8dadd5a2e7a27.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

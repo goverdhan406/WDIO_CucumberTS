@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1629752369145' stop='1629752408240'>
+    <name>The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password</name>
+    <title>The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password</title>
+    <test-cases>
+        <test-case start='1629752369147' status='passed' stop='1629752369159'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1629752369164' status='passed' stop='1629752370429'>
+            <name>Given I am on the login page</name>
+            <title>Given I am on the login page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1629752370429' status='passed' stop='1629752382082'>
+            <name>When I login with GoverdhanReddy.ThatiLaxmanna34 and Linlith1986!</name>
+            <title>When I login with GoverdhanReddy.ThatiLaxmanna34 and Linlith1986!</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='62831664-c051-4839-a77b-8c93db8bce4b-attachment.png' type='image/png' size='9100'/>
+            </attachments>
+        </test-case>
+        <test-case start='1629752382083' status='passed' stop='1629752387443'>
+            <name>Then SignIn button must be disabled</name>
+            <title>Then SignIn button must be disabled</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='84ac7d97-13ab-49b8-abee-4298fdf9ee04-attachment.png' type='image/png' size='98032'/>
+            </attachments>
+        </test-case>
+        <test-case start='1629752387445' status='passed' stop='1629752408235'>
+            <name>And login must be successful</name>
+            <title>And login must be successful</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9d06359a-6511-4c4c-905b-fbb9be03d78d-attachment.png' type='image/png' size='57265'/>
+            </attachments>
+        </test-case>
+        <test-case start='1629752408235' status='passed' stop='1629752408237'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

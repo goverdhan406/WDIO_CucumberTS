@@ -1,0 +1,56 @@
+{
+  "uid" : "53bbc9bb67996d33",
+  "name" : "",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password.",
+  "historyId" : "f4c8f9222b21bd544389c96d85180d87",
+  "time" : {
+    "start" : 1629752210253,
+    "stop" : 1629752210257,
+    "duration" : 4
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53bbc9bb67996d33.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

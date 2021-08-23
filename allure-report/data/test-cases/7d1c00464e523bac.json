@@ -1,0 +1,56 @@
+{
+  "uid" : "7d1c00464e523bac",
+  "name" : "Given I am on the login page",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty.Given I am on the login page",
+  "historyId" : "e9453b651fcc7bda862fda0099f23572",
+  "time" : {
+    "start" : 1629752077415,
+    "stop" : 1629752079059,
+    "duration" : 1644
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the login page"
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d1c00464e523bac.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

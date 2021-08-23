@@ -1,0 +1,72 @@
+{
+  "uid" : "c41bb8e88114669f",
+  "name" : "And login must be successful",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password.And login must be successful",
+  "historyId" : "edafc25d11e3b3cd09cf34dbb88bb10e",
+  "time" : {
+    "start" : 1629752387445,
+    "stop" : 1629752408235,
+    "duration" : 20790
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "55c4d3df3cf19c9c",
+      "name" : "Screenshot",
+      "source" : "55c4d3df3cf19c9c.png",
+      "type" : "image/png",
+      "size" : 57265
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password"
+  }, {
+    "name" : "testMethod",
+    "value" : "And login must be successful"
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c41bb8e88114669f.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

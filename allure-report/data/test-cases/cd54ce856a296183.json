@@ -1,0 +1,72 @@
+{
+  "uid" : "cd54ce856a296183",
+  "name" : "Then I should see a flash message under username saying This field is required",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty.Then I should see a flash message under username saying This field is required",
+  "historyId" : "c5f2a730d065d9310aa5079cf9be1f7",
+  "time" : {
+    "start" : 1629752095593,
+    "stop" : 1629752100969,
+    "duration" : 5376
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "12821630c798fcec",
+      "name" : "Screenshot",
+      "source" : "12821630c798fcec.png",
+      "type" : "image/png",
+      "size" : 94311
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see a flash message under username saying This field is required"
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd54ce856a296183.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

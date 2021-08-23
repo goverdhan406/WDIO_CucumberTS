@@ -1,0 +1,146 @@
+{
+  "uid" : "e56fb38638050a5a",
+  "name" : "",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty.",
+  "historyId" : "eecf70a657bd57413b61470287d9245c",
+  "time" : {
+    "start" : 1629752488911,
+    "stop" : 1629752488912,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ad3ee07f150725a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752456253,
+        "stop" : 1629752456254,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "7549068eafa4e640",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752456214,
+        "stop" : 1629752456217,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "78e90e7b1e513792",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752431503,
+        "stop" : 1629752431509,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "b70908c7b298bb0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752133952,
+        "stop" : 1629752133954,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "13152d3b8bebe07f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752101009,
+        "stop" : 1629752101010,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "33a21192ff194eb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752100969,
+        "stop" : 1629752100971,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "5a9a0f0ca39cf0e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752077412,
+        "stop" : 1629752077414,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "519bdc442ccef728",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629737340790,
+        "stop" : 1629737340792,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "abe7866d3510ca57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629737308628,
+        "stop" : 1629737308629,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "cd9d4b14055c9577",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629737308586,
+        "stop" : 1629737308588,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "707e443d5e0169ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629737285561,
+        "stop" : 1629737285567,
+        "duration" : 6
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e56fb38638050a5a.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

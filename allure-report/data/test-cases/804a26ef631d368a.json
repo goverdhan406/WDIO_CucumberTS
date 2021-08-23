@@ -1,0 +1,98 @@
+{
+  "uid" : "804a26ef631d368a",
+  "name" : "Given I am on the login page",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will see error message if password is empty.Given I am on the login page",
+  "historyId" : "ed8332aacc0a3a038735e8802f9e06ad",
+  "time" : {
+    "start" : 1629752511827,
+    "stop" : 1629752512837,
+    "duration" : 1010
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f77caffb9b05f813",
+      "name" : "Screenshot",
+      "source" : "f77caffb9b05f813.png",
+      "type" : "image/png",
+      "size" : 94238
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if password is empty"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if password is empty"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the login page"
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if password is empty"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ad1f8eaa5422c489",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752488943,
+        "stop" : 1629752489767,
+        "duration" : 824
+      }
+    }, {
+      "uid" : "5a5d0af79fe0c3fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629737363769,
+        "stop" : 1629737364657,
+        "duration" : 888
+      }
+    }, {
+      "uid" : "3ff39fe06154ea04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629737340816,
+        "stop" : 1629737341760,
+        "duration" : 944
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "804a26ef631d368a.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

@@ -1,0 +1,90 @@
+{
+  "uid" : "7acb3f2a0dfd7d2e",
+  "name" : "Then I should see a flash message under username saying This field is required",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty.Then I should see a flash message under username saying This field is required",
+  "historyId" : "c5f2a730d065d9310aa5079cf9be1f7",
+  "time" : {
+    "start" : 1629752450763,
+    "stop" : 1629752456214,
+    "duration" : 5451
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "be063fdeac32c2fd",
+      "name" : "Screenshot",
+      "source" : "be063fdeac32c2fd.png",
+      "type" : "image/png",
+      "size" : 94311
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see a flash message under username saying This field is required"
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if username is empty"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cd54ce856a296183",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629752095593,
+        "stop" : 1629752100969,
+        "duration" : 5376
+      }
+    }, {
+      "uid" : "54ecac6b3f1494a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629737303227,
+        "stop" : 1629737308586,
+        "duration" : 5359
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7acb3f2a0dfd7d2e.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

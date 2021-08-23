@@ -1,0 +1,72 @@
+{
+  "uid" : "6fca2857980f4989",
+  "name" : "When I enter username as \"username\" & Click Sign In button",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will see error message if password is empty.When I enter username as \"username\" & Click Sign In button",
+  "historyId" : "97390faff41406e537e79e6087f0529a",
+  "time" : {
+    "start" : 1629737341760,
+    "stop" : 1629737358407,
+    "duration" : 16647
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1ab19a40bfa45979",
+      "name" : "Screenshot",
+      "source" : "1ab19a40bfa45979.png",
+      "type" : "image/png",
+      "size" : 9100
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if password is empty"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if password is empty"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter username as \"username\" & Click Sign In button"
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if password is empty"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6fca2857980f4989.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

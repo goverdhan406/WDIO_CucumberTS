@@ -1,0 +1,56 @@
+{
+  "uid" : "68bf0da60a19ee4f",
+  "name" : "",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will be able to navigate to forgot password screen.",
+  "historyId" : "f6475fdcfce7d482e0c70cf72a96918f",
+  "time" : {
+    "start" : 1629752629969,
+    "stop" : 1629752629970,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to navigate to forgot password screen"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to navigate to forgot password screen"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to navigate to forgot password screen"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68bf0da60a19ee4f.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

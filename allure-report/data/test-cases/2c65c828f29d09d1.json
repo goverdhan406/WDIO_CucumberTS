@@ -1,0 +1,56 @@
+{
+  "uid" : "2c65c828f29d09d1",
+  "name" : "",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning.",
+  "historyId" : "1a56e20ad21bccb972551fec00103108",
+  "time" : {
+    "start" : 1629752544880,
+    "stop" : 1629752544881,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c65c828f29d09d1.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

@@ -1,0 +1,72 @@
+{
+  "uid" : "3f46de74bef81049",
+  "name" : "When I login with GoverdhanReddy.ThatiLaxmanna34 and Linlith1986!",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password.When I login with GoverdhanReddy.ThatiLaxmanna34 and Linlith1986!",
+  "historyId" : "c833f79f37bbfe6fe0786c5ed3127334",
+  "time" : {
+    "start" : 1629737447509,
+    "stop" : 1629737459399,
+    "duration" : 11890
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "19a145bac5739804",
+      "name" : "Screenshot",
+      "source" : "19a145bac5739804.png",
+      "type" : "image/png",
+      "size" : 9100
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I login with GoverdhanReddy.ThatiLaxmanna34 and Linlith1986!"
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f46de74bef81049.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

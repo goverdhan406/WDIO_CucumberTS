@@ -1,0 +1,76 @@
+{
+  "uid" : "b4aafe65291332d3",
+  "name" : "Then I should see a flash message under password saying This field is required1",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will see error message if password is empty.Then I should see a flash message under password saying This field is required1",
+  "historyId" : "a612e8168a24ae4036a702597549ad96",
+  "time" : {
+    "start" : 1629737381315,
+    "stop" : 1629737396692,
+    "duration" : 15377
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Error: Expect $(`body > app-root > app-signin > div > div > div.full-width.display-flex.align-items-center.justify-content-center > div > form > div:nth-child(3) > app-validated-input > div > app-error-message > div`) to have text",
+  "statusTrace" : "Error: Expect $(`body > app-root > app-signin > div > div > div.full-width.display-flex.align-items-center.justify-content-center > div > form > div:nth-child(3) > app-validated-input > div > app-error-message > div`) to have text\n                \n                Expected: \"This field is required1\"\n                Received: \"This field is required\"\n                    at C:\\WDIO_CucumberTS\\features\\step-definitions\\login.ts:45:26\n                    at step (C:\\WDIO_CucumberTS\\features\\step-definitions\\login.ts:33:23)\n                    at Object.next (C:\\WDIO_CucumberTS\\features\\step-definitions\\login.ts:14:53)\n                    at fulfilled (C:\\WDIO_CucumberTS\\features\\step-definitions\\login.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:93:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Error: Expect $(`body > app-root > app-signin > div > div > div.full-width.display-flex.align-items-center.justify-content-center > div > form > div:nth-child(3) > app-validated-input > div > app-error-message > div`) to have text",
+    "statusTrace" : "Error: Expect $(`body > app-root > app-signin > div > div > div.full-width.display-flex.align-items-center.justify-content-center > div > form > div:nth-child(3) > app-validated-input > div > app-error-message > div`) to have text\n                \n                Expected: \"This field is required1\"\n                Received: \"This field is required\"\n                    at C:\\WDIO_CucumberTS\\features\\step-definitions\\login.ts:45:26\n                    at step (C:\\WDIO_CucumberTS\\features\\step-definitions\\login.ts:33:23)\n                    at Object.next (C:\\WDIO_CucumberTS\\features\\step-definitions\\login.ts:14:53)\n                    at fulfilled (C:\\WDIO_CucumberTS\\features\\step-definitions\\login.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:93:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "26d9521af2f31015",
+      "name" : "Screenshot",
+      "source" : "26d9521af2f31015.png",
+      "type" : "image/png",
+      "size" : 94280
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if password is empty"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if password is empty"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see a flash message under password saying This field is required1"
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if password is empty"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4aafe65291332d3.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

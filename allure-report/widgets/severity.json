@@ -1,0 +1,241 @@
+[ {
+  "uid" : "85db5438ba23efde",
+  "name" : "Then I should see a flash message under username saying This field is required1",
+  "time" : {
+    "start" : 1629752473486,
+    "stop" : 1629752488910,
+    "duration" : 15424
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbf0c305c82ad01a",
+  "name" : "Then SignIn button must be disabled",
+  "time" : {
+    "start" : 1629752603791,
+    "stop" : 1629752609199,
+    "duration" : 5408
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ddd037a1fa2ee3",
+  "name" : "Then navigate to Reset access page",
+  "time" : {
+    "start" : 1629752636814,
+    "stop" : 1629752652116,
+    "duration" : 15302
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b931b99b8ac7ce1e",
+  "name" : "",
+  "time" : {
+    "start" : 1629752652117,
+    "stop" : 1629752652118,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7b8dadd5a2e7a27",
+  "name" : "Then I should see a flash message saying The username or password is incorrect.",
+  "time" : {
+    "start" : 1629752580385,
+    "stop" : 1629752590897,
+    "duration" : 10512
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7789f932875533e",
+  "name" : "",
+  "time" : {
+    "start" : 1629752629940,
+    "stop" : 1629752629942,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef9438d6c111cc58",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1629752568143,
+    "stop" : 1629752568899,
+    "duration" : 756
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58f94b43a9759df5",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1629752456254,
+    "stop" : 1629752457497,
+    "duration" : 1243
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae6c59fe19f0e62f",
+  "name" : "When I enter username as \"username\" & Click Sign In button",
+  "time" : {
+    "start" : 1629752512837,
+    "stop" : 1629752529300,
+    "duration" : 16463
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b81df8786a3d607",
+  "name" : "When I enter password as \"Password\" & Click Sign In button",
+  "time" : {
+    "start" : 1629752457497,
+    "stop" : 1629752473486,
+    "duration" : 15989
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53abb4f93c3c1dd2",
+  "name" : "When I login with wrong and correct",
+  "time" : {
+    "start" : 1629752568899,
+    "stop" : 1629752580384,
+    "duration" : 11485
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f054d3837f61b3b",
+  "name" : "When I click on Forgotten Password link",
+  "time" : {
+    "start" : 1629752630877,
+    "stop" : 1629752636814,
+    "duration" : 5937
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2caa1175f2325061",
+  "name" : "Then I should see a flash message under password saying This field is required1",
+  "time" : {
+    "start" : 1629752529301,
+    "stop" : 1629752544853,
+    "duration" : 15552
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f753c4b6dc6eb37",
+  "name" : "When I login with GoverdhanReddy.ThatiLaxmanna34 and Linlith1986!",
+  "time" : {
+    "start" : 1629752591922,
+    "stop" : 1629752603791,
+    "duration" : 11869
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcf62987dc17eb95",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1629752629971,
+    "stop" : 1629752630877,
+    "duration" : 906
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "701ac9c33800418e",
+  "name" : "When I login with correct and wrong",
+  "time" : {
+    "start" : 1629752545957,
+    "stop" : 1629752557661,
+    "duration" : 11704
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12465d40dda3d4ae",
+  "name" : "And login must be successful",
+  "time" : {
+    "start" : 1629752609200,
+    "stop" : 1629752629940,
+    "duration" : 20740
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c77d3b14aa186eb",
+  "name" : "",
+  "time" : {
+    "start" : 1629752544854,
+    "stop" : 1629752544856,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ab9c3c0f5f2a5c1",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1629752590918,
+    "stop" : 1629752591922,
+    "duration" : 1004
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7acb3f2a0dfd7d2e",
+  "name" : "Then I should see a flash message under username saying This field is required",
+  "time" : {
+    "start" : 1629752450763,
+    "stop" : 1629752456214,
+    "duration" : 5451
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e56fb38638050a5a",
+  "name" : "",
+  "time" : {
+    "start" : 1629752488911,
+    "stop" : 1629752488912,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "804a26ef631d368a",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1629752511827,
+    "stop" : 1629752512837,
+    "duration" : 1010
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88ae27aafc04faf5",
+  "name" : "",
+  "time" : {
+    "start" : 1629752590897,
+    "stop" : 1629752590898,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24c0ac3d659045b9",
+  "name" : "Then I should see a flash message under password saying This field is required",
+  "time" : {
+    "start" : 1629752506344,
+    "stop" : 1629752511809,
+    "duration" : 5465
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

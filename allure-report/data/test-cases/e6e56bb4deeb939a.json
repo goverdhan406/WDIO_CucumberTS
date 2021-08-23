@@ -1,0 +1,72 @@
+{
+  "uid" : "e6e56bb4deeb939a",
+  "name" : "When I login with correct and wrong",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning.When I login with correct and wrong",
+  "historyId" : "5efcf83a912a5c12404904cd9e1f4cfa",
+  "time" : {
+    "start" : 1629737397615,
+    "stop" : 1629737409223,
+    "duration" : 11608
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "df0ade25250c7314",
+      "name" : "Screenshot",
+      "source" : "df0ade25250c7314.png",
+      "type" : "image/png",
+      "size" : 9100
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I login with correct and wrong"
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6e56bb4deeb939a.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

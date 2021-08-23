@@ -1,0 +1,81 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1629752431500' stop='1629752456222'>
+    <name>The modulr finance Sandbox login page: As a user, I will see error message if username is empty</name>
+    <title>The modulr finance Sandbox login page: As a user, I will see error message if username is empty</title>
+    <test-cases>
+        <test-case start='1629752431503' status='passed' stop='1629752431509'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1629752431510' status='passed' stop='1629752432832'>
+            <name>Given I am on the login page</name>
+            <title>Given I am on the login page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1629752432833' status='passed' stop='1629752450763'>
+            <name>When I enter password as "Password" &amp; Click Sign In button</name>
+            <title>When I enter password as "Password" &amp; Click Sign In button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ef6351f1-c3bb-4ccd-8035-33ba9f3c3574-attachment.png' type='image/png' size='9100'/>
+            </attachments>
+        </test-case>
+        <test-case start='1629752450763' status='passed' stop='1629752456214'>
+            <name>Then I should see a flash message under username saying This field is required</name>
+            <title>Then I should see a flash message under username saying This field is required</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f555c100-fd2d-4142-b0e1-2ff8be4e9196-attachment.png' type='image/png' size='94311'/>
+            </attachments>
+        </test-case>
+        <test-case start='1629752456214' status='passed' stop='1629752456217'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

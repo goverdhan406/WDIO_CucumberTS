@@ -1,0 +1,82 @@
+{
+  "uid" : "53abb4f93c3c1dd2",
+  "name" : "When I login with wrong and correct",
+  "fullName" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning.When I login with wrong and correct",
+  "historyId" : "ccb84c9fdc3bd4dfcd6714290e43b02",
+  "time" : {
+    "start" : 1629752568899,
+    "stop" : 1629752580384,
+    "duration" : 11485
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8958be4538f3be2b",
+      "name" : "Screenshot",
+      "source" : "8958be4538f3be2b.png",
+      "type" : "image/png",
+      "size" : 9100
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning"
+  }, {
+    "name" : "testClass",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I login with wrong and correct"
+  }, {
+    "name" : "package",
+    "value" : "The modulr finance Sandbox login page: As a user, I will see error message if incorrect username or password is entered along with warning"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ea477a2387977fb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629737420459,
+        "stop" : 1629737432146,
+        "duration" : 11687
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53abb4f93c3c1dd2.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

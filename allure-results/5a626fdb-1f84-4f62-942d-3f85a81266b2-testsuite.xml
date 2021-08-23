@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1629737442653' stop='1629737470338'>
+    <name>The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password</name>
+    <title>The modulr finance Sandbox login page: As a user, I will be able to login with correct username and password</title>
+    <test-cases>
+        <test-case start='1629737442653' status='passed' stop='1629737442654'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1629737442655' status='passed' stop='1629737447508'>
+            <name>Given I am on the login page</name>
+            <title>Given I am on the login page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ed449f3c-68e2-4182-a1ce-d31c2c00b3fa-attachment.png' type='image/png' size='95854'/>
+            </attachments>
+        </test-case>
+        <test-case start='1629737447509' status='passed' stop='1629737459399'>
+            <name>When I login with GoverdhanReddy.ThatiLaxmanna34 and Linlith1986!</name>
+            <title>When I login with GoverdhanReddy.ThatiLaxmanna34 and Linlith1986!</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='079cfc75-5b37-444d-8579-8752329e638c-attachment.png' type='image/png' size='9100'/>
+            </attachments>
+        </test-case>
+        <test-case start='1629737459399' status='passed' stop='1629737464860'>
+            <name>Then SignIn button must be disabled</name>
+            <title>Then SignIn button must be disabled</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='28ad25c7-631d-4b8b-88db-d134c6b93376-attachment.png' type='image/png' size='98124'/>
+            </attachments>
+        </test-case>
+        <test-case start='1629737464860' status='passed' stop='1629737470336'>
+            <name>And login must be successful</name>
+            <title>And login must be successful</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1aae0345-8d7d-4237-8a36-fc75d7264fd6-attachment.png' type='image/png' size='57265'/>
+            </attachments>
+        </test-case>
+        <test-case start='1629737470336' status='passed' stop='1629737470337'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

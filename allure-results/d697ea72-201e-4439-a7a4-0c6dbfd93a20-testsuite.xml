@@ -1,0 +1,88 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1629737470357' stop='1629737482180'>
+    <name>The modulr finance Sandbox login page: As a user, I will be able to navigate to forgot password screen</name>
+    <title>The modulr finance Sandbox login page: As a user, I will be able to navigate to forgot password screen</title>
+    <test-cases>
+        <test-case start='1629737470357' status='passed' stop='1629737470358'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1629737470359' status='passed' stop='1629737471805'>
+            <name>Given I am on the login page</name>
+            <title>Given I am on the login page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='88e82c27-fb24-4373-ba57-c67739a628cc-attachment.png' type='image/png' size='57265'/>
+            </attachments>
+        </test-case>
+        <test-case start='1629737471805' status='broken' stop='1629737482178'>
+            <name>When I click on Forgotten Password link</name>
+            <title>When I click on Forgotten Password link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ce4219ec-716f-4fdc-9dac-54d3cdf58a74-attachment.png' type='image/png' size='9100'/>
+            </attachments>
+            <failure>
+                <message>Error: Can't call click on element with selector "#forgotPasswordHref" because element wasn't found</message>
+                <stack-trace>Error: Can't call click on element with selector "#forgotPasswordHref" because element wasn't found
+                    at Object.implicitWait [as default] (C:\WDIO_CucumberTS\node_modules\webdriverio\build\utils\implicitWait.js:34:19)
+                    at async Element.elementErrorHandlerCallbackFn (C:\WDIO_CucumberTS\node_modules\webdriverio\build\middlewares.js:19:29)
+                    at async Element.wrapCommandFn (C:\WDIO_CucumberTS\node_modules\@wdio\utils\build\shim.js:104:29)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1629737482178' status='pending' stop='1629737482179'>
+            <name>Then navigate to Reset access page</name>
+            <title>Then navigate to Reset access page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1629737482179' status='passed' stop='1629737482179'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-92.0.4515.159'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
